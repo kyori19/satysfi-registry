@@ -241,3 +241,13 @@ packages:
       checksum: "2989748172667b01c49e448dff69bb28"
     language: "^0.1.0"
     dependencies: []
+
+- name: "font-noto-sans-cjk"
+  implementations:
+  - version: "0.0.1"
+    source:
+      type: "tar_gzip"
+      url: "https://github.com/kyori19/satysfi-registry/raw/noto/font-noto-sans-cjk.tar.gz"
+      checksum: "7cb9b13f8527bd0f9a4a8dd9eafdc2d1"
+    language: "^0.1.0"
+    dependencies: []
