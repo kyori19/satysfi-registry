@@ -242,12 +242,12 @@ packages:
     language: "^0.1.0"
     dependencies: []
 
-- name: "font-noto-sans-cjk"
+- name: "font-noto-sans"
   implementations:
   - version: "0.0.1"
     source:
       type: "tar_gzip"
-      url: "https://github.com/kyori19/satysfi-registry/raw/noto/font-noto-sans-cjk.tar.gz"
-      checksum: "cfd0dba90c928e612a5d8f8132dbfdf5"
+      url: "https://github.com/kyori19/satysfi-registry/raw/noto/font-noto-sans.tar.gz"
+      checksum: "398d94eee7ba4f02f20af2b34eca069f"
     language: "^0.1.0"
     dependencies: []
