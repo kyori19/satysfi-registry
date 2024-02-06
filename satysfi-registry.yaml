@@ -251,3 +251,21 @@ packages:
       checksum: "3d218ce3533c746dea797486940cc39b"
     language: "^0.1.0"
     dependencies: []
+- name: "font-open-sans"
+  implementations:
+  - version: "0.0.1"
+    source:
+      type: "tar_gzip"
+      url: "https://github.com/kyori19/satysfi-registry/raw/fonts/font-open-sans.0.0.1.tar.gz"
+      checksum: "bb58efef1f69c42fa3e93476970e337b"
+    language: "^0.1.0"
+    dependencies: []
+- name: "font-gen-shin-gothic"
+  implementations:
+  - version: "0.0.1"
+    source:
+      type: "tar_gzip"
+      url: "https://github.com/kyori19/satysfi-registry/raw/fonts/font-gen-shin-gothic.0.0.1.tar.gz"
+      checksum: "3e394980000ebc6c308fd1e8a7ae6fbc"
+    language: "^0.1.0"
+    dependencies: []
