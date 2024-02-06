@@ -244,10 +244,10 @@ packages:
 
 - name: "font-noto-sans"
   implementations:
-  - version: "0.0.1"
+  - version: "0.0.2"
     source:
       type: "tar_gzip"
-      url: "https://github.com/kyori19/satysfi-registry/raw/noto/font-noto-sans.tar.gz"
+      url: "https://github.com/kyori19/satysfi-registry/raw/noto/font-noto-sans.0.0.2.tar.gz"
       checksum: "398d94eee7ba4f02f20af2b34eca069f"
     language: "^0.1.0"
     dependencies: []
